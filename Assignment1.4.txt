@@ -1,0 +1,5 @@
+import math
+Dia=12
+Rad=Dia/2 
+vol=(4/3)*math.pi*Rad**3
+print("Volume Of Sphere with Diameter 12cm is "+str(vol)+" cubic cm")
